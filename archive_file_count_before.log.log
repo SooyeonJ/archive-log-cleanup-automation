@@ -1,0 +1,53 @@
+[2026-01-05 19:18:15] Start file count check
+
+=== Disk usage (df -h) ===
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs         16G     0   16G   0% /dev
+tmpfs            16G  4.0K   16G   1% /dev/shm
+tmpfs            16G  1.6G   15G  11% /run
+tmpfs            16G     0   16G   0% /sys/fs/cgroup
+/dev/sda2        49G   17G   33G  34% /
+/dev/sda1      1014M  207M  808M  21% /boot
+tmpfs           3.2G     0  3.2G   0% /run/user/11001
+tmpfs           3.2G     0  3.2G   0% /run/user/11004
+tmpfs           3.2G     0  3.2G   0% /run/user/11002
+/dev/bsr0       1.5T  381G  1.1T  26% /data
+
+=== File count by month in /data/archivelog ===
+      1 
+      8 2023-05
+      6 2023-06
+     12 2023-07
+     28 2023-08
+      6 2023-09
+      8 2023-10
+      8 2023-11
+      9 2023-12
+      9 2024-01
+      9 2024-02
+     10 2024-03
+     16 2024-04
+     17 2024-05
+     17 2024-06
+     19 2024-07
+     23 2024-08
+     36 2024-09
+     39 2024-10
+     31 2024-11
+     25 2024-12
+     26 2025-01
+     24 2025-02
+     27 2025-03
+     26 2025-04
+     17 2025-05
+     10 2025-06
+     11 2025-07
+     17 2025-08
+     20 2025-09
+     14 2025-10
+     17 2025-11
+     29 2025-12
+      7 2026-01
+Total files: 582
+Archive directory size : 284G
+[2026-01-05 19:18:15] End
